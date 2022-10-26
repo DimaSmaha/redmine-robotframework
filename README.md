@@ -1,6 +1,8 @@
 # Project Setup
-
+[Full Project Source](https://gitlab.com/bftft/robot-framework-testautomationu-2022)
 ## Purpose:
+My little testing on RobotFramework, tried to implement POM.
+
 The purpose of this exercise is to ensure that everyone has access to the project examples and source code. Ensure python 3.8, pip, chromedriver, chrome, git, and robot framework are installed properly.
 
 ## Learning Objectives:
